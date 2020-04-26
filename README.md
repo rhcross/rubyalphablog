@@ -3,7 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-1. Complete Ruby on Rails Developer
+1. Complete Ruby on Rails Developer!
+2. Set github and pushed changes.
 
 Things you may want to cover:
 
